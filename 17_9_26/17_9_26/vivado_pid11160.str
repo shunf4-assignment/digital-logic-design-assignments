@@ -1,0 +1,72 @@
+/*
+
+Vivado v2016.2 (64-bit)
+SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+Process ID: 11160
+
+Current time: 	9/26/17 10:30:02 PM CST
+Time zone: 	China Standard Time (Asia/Shanghai)
+
+OS: Windows 10
+Version: 10.0
+Architecture: amd64
+Available processors (cores): 4
+
+Screen size: 1536x864
+Screen resolution (DPI): 96
+Available screens: 1
+Default font: family=SimSun,name=ËÎÌå,style=plain,size=12
+
+Java version: 	1.8.0_66 64-bit
+Java home: 	D:/Xilinx/Vivado/2016.2/tps/win64/jre
+
+User name: 	shunf
+User home directory: C:/Users/shunf
+User working directory: D:/weiyunSYNC/sync/¿Î¼þ/Êý×ÖÂß¼­/17_9_26/17_9_26
+User country: 	CN
+User language: 	zh
+User locale: 	zh_CN
+
+RDI Base root directory: D:/Xilinx/Vivado
+RDI Data directory: D:/Xilinx/Vivado/2016.2/data
+RDI Bin directory: D:/Xilinx/Vivado/2016.2/bin
+
+Vivado preferences path: C:/Users/shunf/AppData/Roaming/Xilinx/Vivado/2016.2/vivado.ini
+Vivado layouts directory: C:/Users/shunf/AppData/Roaming/Xilinx/Vivado/2016.2/layouts
+
+GUI allocated memory:	195 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 557 MB
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 40 MB (+39092kb) [00:00:06]
+// [Engine Memory]: 396 MB (+264149kb) [00:00:06]
+// bL:g (cv:JFrame):  Open Project : addNotify
+// Opening Vivado Project: D:\weiyunSYNC\sync\¿Î¼þ\Êý×ÖÂß¼­\17_9_26\17_9_26\17_9_26.xpr. Version: Vivado v2016.2 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project D:/weiyunSYNC/sync/¿Î¼þ/Êý×ÖÂß¼­/17_9_26/17_9_26/17_9_26.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project D:/weiyunSYNC/sync/¿Î¼þ/Êý×ÖÂß¼­/17_9_26/17_9_26/17_9_26.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'D:/Learning/vivado_project/17_9_26' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 65 MB (+24126kb) [00:00:09]
+// [Engine Memory]: 505 MB (+93577kb) [00:00:09]
+// [GUI Memory]: 71 MB (+3616kb) [00:00:11]
+// [Engine Memory]: 552 MB (+21818kb) [00:00:11]
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2016.2/data/ip'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 557 MB. GUI used memory: 33 MB. Current time: 9/26/17 10:30:02 PM CST
+// TclEventType: FILE_SET_OPTIONS_CHANGE
+// Project name: 17_9_26; location: D:/weiyunSYNC/sync/¿Î¼þ/Êý×ÖÂß¼­/17_9_26/17_9_26; part: xc7a100tcsg324-1
+// Tcl Message: open_project: Time (s): cpu = 00:00:17 ; elapsed = 00:00:08 . Memory (MB): peak = 808.836 ; gain = 159.082 
+dismissDialog("Open Project"); // bL:g (cv:JFrame)

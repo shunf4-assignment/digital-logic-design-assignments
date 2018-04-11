@@ -1,0 +1,37 @@
+`timescale 1ns / 1ps
+//////////////////////////////////////////////////////////////////////////////////
+// Company: 
+// Engineer: 
+// 
+// Create Date: 2017/12/03 20:16:52
+// Design Name: 
+// Module Name: deselector
+// Project Name: 
+// Target Devices: 
+// Tool Versions: 
+// Description: 
+// 
+// Dependencies: 
+// 
+// Revision:
+// Revision 0.01 - File Created
+// Additional Comments:
+// 
+//////////////////////////////////////////////////////////////////////////////////
+
+
+module deselector #(
+    parameter bitWidth = 4,
+    parameter outputNum = 4,
+    parameter selectNumWidth = 2
+)(
+    output reg [bitWidth * outputNum - 1:0] oZ,
+    input [0:selectNumWidth - 1] iS,
+    input [bitWidth - 1:0] iC
+    );
+    always @(iS) begin
+        oZ = 'b1;
+        oZ[iS * bitWidth +: bitWidth] = iC;
+    end
+endmodule
+

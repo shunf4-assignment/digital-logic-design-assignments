@@ -1,0 +1,3 @@
+
+call gitsync.bat
+pause

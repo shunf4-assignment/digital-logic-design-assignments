@@ -1,0 +1,11 @@
+**/.Xil/
+**/*.cache/
+**/*.runs/
+**/*.sim/sim_*/behav/
+**/vivado*.jou
+**/vivado*.log
+**/~$*.do[ct]
+**/~$*.do[ct]?
+**/~WRL*.tmp
+_gsdata_/
+gitlog.log
